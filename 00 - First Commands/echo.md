@@ -21,8 +21,8 @@
 
 
 * Create your variables like:
-	1. [~$ myVariable=30]
-	2. [~$ echo $myVariable]
+	1. [**~$** ```myVariable=30```]
+	2. [**~$** ```echo $myVariable```]
 
 
 
