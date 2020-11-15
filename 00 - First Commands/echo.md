@@ -2,7 +2,7 @@
 
 ### Display message out to the  screen, writes each given string to the standard output with a new line after the last one.
 
-1. _No newline output_
+@@1. _No newline output_@@
 
 **~$** ``` echo -n```
 
