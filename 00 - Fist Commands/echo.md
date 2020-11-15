@@ -4,13 +4,13 @@
 
 1. _No newline output_
 **~$** echo -n
---
+
 
 2. _Prints out to the screen_
 **~$** echo "Hello Friend!"
 
 * With quotes it is possible to have multiple lines;
---
+
 
 3. _Variables_
 **~$** echo $myVariable
@@ -19,21 +19,21 @@
 	1. [~$ myVariable=30]
 	2. [~$ echo $myVariable]
 
---
+
 
 4. _No newline output_
 **~$** echo -n
---
+
 
 5. _No newline output_
 **~$** echo -n
---
+
 
 6. _No newline output_
 **~$** echo -n
---
+
 
 7. _No newline output_
 **~$** echo -n
---
+
 
