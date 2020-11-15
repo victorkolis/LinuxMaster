@@ -9,7 +9,7 @@
 
 2. _Prints out to the screen_
 
-**~$** echo "Hello Friend!"
+**~$** ```echo "Hello Friend!"```
 
 
 * With quotes it is possible to have multiple lines;
@@ -17,7 +17,7 @@
 
 3. _Variables_
 
-**~$** echo $myVariable
+**~$** ```echo $myVariable```
 
 
 * Create your variables like:
@@ -28,21 +28,21 @@
 
 4. _No newline output_
 
-**~$** echo -n
+**~$** ```echo -n```
 
 
 5. _No newline output_
 
-**~$** echo -n
+**~$** ```echo -n```
 
 
 6. _No newline output_
 
-**~$** echo -n
+**~$** ```echo -n```
 
 
 7. _No newline output_
 
-**~$** echo -n
+**~$** ```echo -n```
 
 
