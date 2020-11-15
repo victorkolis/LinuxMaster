@@ -4,7 +4,7 @@
 
 1. _No newline output_
 
-**~$** - echo -n
+- **~$** echo -n
 
 
 2. _Prints out to the screen_
