@@ -73,8 +73,8 @@
 **~$** ```echo .*```
 
 * Variation using ls:
-	
-	1. ls -d .[!.]?*
+
+	1. **~$** ```ls -d .[!.]?*```
 
 
 11. _Displays home directory and for current user_
