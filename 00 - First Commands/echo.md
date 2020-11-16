@@ -22,8 +22,8 @@
 **~$** ```echo $myVariable```
 
 * Create your variables like:
-	1. [**~$** ```myVariable=30```]
-	2. [**~$** ```echo $myVariable```]
+	1. **~$** ```myVariable=30```
+	2. **~$** ```echo $myVariable```
 
 
 
@@ -37,6 +37,7 @@
 	2. **~$** ```echo *s``` _Ends with such letter_
 	3. **~$** ```echo [[:upper:]]*``` _Display all uppercase_
 	4. **~$** ```echo [[:lower:]]*``` _Display all lowercase_
+	5. **~$** ```echo /usr/*/share``` _Expand the directory that has such beginning/ending_
 
 5. _Using the $PATH Unix variable_
 
@@ -56,22 +57,35 @@
 
 **~$** ```echo -e "The backslash n will work here \nin this sentence.```
 
+
 8. _Display only the upper case items/files_
 
 **~$** ```echo * [[:upper:]]```
+
 
 9. _Display only the lower case items/files_
 
 **~$** ```echo * [[:lower:]]```
 
-. __
 
-**~$** ``````
+10. _Display hidden files in a plain simple manner_
 
-. __
+**~$** ```echo .*```
 
-**~$** ``````
+* Variation using ls:
+	
+	1. ls -d .[!.]?*
 
-. __
 
-**~$** ``````
+11. _Displays home directory and for current user_
+
+**~$** ```echo ~```
+
+
+12. _Math for whole numbers_
+
+**~$** ```echo $((2 + 2))```
+
+* Precedence:
+
+	1. ```echo $(($((5**2)) * 3))```
