@@ -27,10 +27,16 @@
 
 
 
-4. _Echo files in the current pwd_
+4. _Display all available files in the current pwd_
 
 **~$** ```echo *```
 
+* Expansion technique(case sensitive):
+
+	1. **~$** ```echo D*``` _Begings with such letter_
+	2. **~$** ```echo *s``` _Ends with such letter_
+	3. **~$** ```echo [[:upper:]]*``` _Display all uppercase_
+	4. **~$** ```echo [[:lower:]]*``` _Display all lowercase_
 
 5. _Using the $PATH Unix variable_
 
@@ -50,17 +56,13 @@
 
 **~$** ```echo -e "The backslash n will work here \nin this sentence.```
 
-. __
+8. _Display only the upper case items/files_
 
-**~$** ``````
+**~$** ```echo * [[:upper:]]```
 
-. __
+9. _Display only the lower case items/files_
 
-**~$** ``````
-
-. __
-
-**~$** ``````
+**~$** ```echo * [[:lower:]]```
 
 . __
 
@@ -70,3 +72,6 @@
 
 **~$** ``````
 
+. __
+
+**~$** ``````
