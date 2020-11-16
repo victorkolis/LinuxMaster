@@ -11,6 +11,8 @@
 
 **~$** ```echo "Hello Friend!"```
 
+* This is the preferred way of using echo, with double quotes for special character treating.
+
 
 * With quotes it is possible to have multiple lines;
 
@@ -19,30 +21,52 @@
 
 **~$** ```echo $myVariable```
 
-
 * Create your variables like:
 	1. [**~$** ```myVariable=30```]
 	2. [**~$** ```echo $myVariable```]
 
 
 
-4. _No newline output_
+4. _Echo files in the current pwd_
 
-**~$** ```echo -n```
-
-
-5. _No newline output_
-
-**~$** ```echo -n```
+**~$** ```echo *```
 
 
-6. _No newline output_
+5. _Using the $PATH Unix variable_
 
-**~$** ```echo -n```
+**~$** ```echo $PATH```
+
+* $PATH is an environment variable of type Unix, DOS, OS / 2, and Microsoft Windows, 
+
+	specifying a collection of directories where the executable softwares are located.
 
 
-7. _No newline output_
+6. _Disable backslash escape sequences (default)_
 
-**~$** ```echo -n```
+**~$** ```echo -E "The backslash n won't work here \nin this sentence."```
 
+
+7. _Enable backslash escape sequences_
+
+**~$** ```echo -e "The backslash n will work here \nin this sentence.```
+
+. __
+
+**~$** ``````
+
+. __
+
+**~$** ``````
+
+. __
+
+**~$** ``````
+
+. __
+
+**~$** ``````
+
+. __
+
+**~$** ``````
 
