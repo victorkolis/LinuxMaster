@@ -26,7 +26,7 @@ _You must use a value after the -B argument to define how many months you want b
 
 * **~$** ```cal -A 1``` _Display month after the current one_
 
-* **~$** ```cal -3``` _Show in month prior and one month after the current one(no other arguments needed)_
+* **~$** ```cal -3``` _Show one month prior and one month after the current one(no other arguments needed)_
 
 * **~$** ```cal -m 1``` _Display the month requested in the 12 month range(January being the 1st)_
 
