@@ -7,11 +7,8 @@
         "id": "1c07e951c91808e0",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Commands/CAL.md",
-            "mode": "preview"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Commands/CAL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +84,9 @@
   },
   "active": "1c07e951c91808e0",
   "lastOpenFiles": [
+    "Commands/ECHO.md",
     "Commands/CAL.md",
-    "Commands/ECHO.md"
+    "Commands/DATE.md",
+    "Commands/Untitled.md"
   ]
 }

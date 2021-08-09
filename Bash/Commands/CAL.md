@@ -33,4 +33,4 @@ _You must use a value after the -B argument to define how many months you want b
 
 4. _Shows the current date_
 
-**~$** ```date```
+**~$** [```date```](Commands/date)
