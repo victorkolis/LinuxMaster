@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "d507d44862f626b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c07e951c91808e0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Commands/CAL.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f6d224e58c39755e",
+    "type": "split",
+    "children": [
+      {
+        "id": "5de89c1a9931b44a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb43e87fe445be85",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "fd16a81fb3161456",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d54f3e22205f5cd8",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e8eda3727108374",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "efeabd9798927f9a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Commands/CAL.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "1c07e951c91808e0",
+  "lastOpenFiles": [
+    "Commands/CAL.md",
+    "Commands/ECHO.md"
+  ]
+}
