@@ -4,10 +4,10 @@
     "type": "split",
     "children": [
       {
-        "id": "1c07e951c91808e0",
+        "id": "84d2be5487484ab6",
         "type": "leaf",
         "state": {
-          "type": "graph",
+          "type": "empty",
           "state": {}
         }
       }
@@ -82,7 +82,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1c07e951c91808e0",
+  "active": "84d2be5487484ab6",
   "lastOpenFiles": [
     "Commands/ECHO.md",
     "Commands/CAL.md",
