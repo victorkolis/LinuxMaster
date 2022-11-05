@@ -1,5 +1,12 @@
 # CAL
 
+### Expressions
+
+```
+-1  -3  -A  -b  -B  -d  -e  -h  -H  -j  -J  -m  -M  -o  -p  -s  -S  -w  -y
+```
+
+
 ## Usage and examples
 
 ```
