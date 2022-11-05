@@ -25,3 +25,6 @@ Retuns the current month's calendar with current day highlighted.
 `$ cal -y` \
 Retuns the entire current year's calendar with current day highlighted.
 
+`$ cal -A {amount_of_months_desired: (required)} {month: 1-12 (default is current month)} {year: YYYY (default is current year)}`  \
+`A` stands for after. \
+e.g.: `$ cal -A 2 7 2000`
